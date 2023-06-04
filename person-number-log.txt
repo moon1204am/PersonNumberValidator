@@ -1,0 +1,10 @@
+4 Jun 2023, 21:19:44, Exception was thrown: The control digit for number 1701272394 is INVALID
+PersonNumberException: The control digit for number 1701272394 is INVALID
+	at Validate.validityCheck(Validate.java:54)
+	at View.runExecution(View.java:21)
+	at Main.main(Main.java:9)
+4 Jun 2023, 21:19:44, Exception was thrown: 19030229 is not a valid birthdate
+PersonNumberException: 19030229 is not a valid birthdate
+	at Validate.validityCheck(Validate.java:54)
+	at View.runExecution(View.java:21)
+	at Main.main(Main.java:9)
